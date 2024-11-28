@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/bomb.png</File>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/Controls/Button.png</File>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/enemies_spritesheet.png</File>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/Fonts/Font.spritefont</File>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/items_spritesheet.png</File>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/p1_duck.png</File>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/p1_front.png</File>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/p1_hurt.png</File>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/p1_jump.png</File>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/p1_spritesheet.png</File>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/p1_walk.png</File>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/tiles_spritesheet.png</File>
+    <File>C:/ProjectTwoPlatformer/ProjectTwoPlatformer/Content/Title_Screen.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
